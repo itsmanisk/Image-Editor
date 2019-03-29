@@ -213,10 +213,8 @@ endfunction
 
 function creators
 //Write your callback for  obj15  here
-disp("Manish  16583");
-disp("Harshit  16570");
-disp("Saurav  16555");
-disp("Submitted to: Ms Shobhna Kashyap");
+disp("Manish ");
+
 
 endfunction
 
